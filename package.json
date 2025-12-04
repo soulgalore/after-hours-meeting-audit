@@ -1,0 +1,8 @@
+{
+  "name": "after-hours-meeting-audit",
+  "private": true,
+  "dependencies": {
+    "luxon": "3.7.2",
+    "node-ical": "0.22.1"
+  }
+}
